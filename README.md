@@ -34,7 +34,7 @@ L'objectif est de transformer vingt années de données hétérogènes en un mod
 
 ## Dashboard
 
-Les visualisations du projet seront ajoutées ici.
+![Vue d'ensemble du dashboard Power BI](assets/01-overview.png)
 
 ## Principaux axes d'analyse
 
